@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Em formação — <em>coloque aqui o nome do seu curso</em>
+  🎓 Em formação — <em> Formando em Técnico de Informática</em>
 </p>
 
 <br>
