@@ -25,5 +25,5 @@
 </p>
 
  <p 
-   align="center"><img src="./imagem.github.png" width="720">
+   align="center"><img src="./imagem.github.png" width="450">
  </p>
