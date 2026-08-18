@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+oii+eu+sou+o+Everton!+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica+%F0%9F%92%BB;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 
-
 <p align="center">
   ☀️ Bom dia, boa tarde ou boa noite!
 </p>
