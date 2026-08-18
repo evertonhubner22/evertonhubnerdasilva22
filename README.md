@@ -1,7 +1,9 @@
 # evertonhubnerdasilva22
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=oii+eu+sou+o+Everton!+%F0%9F%9A%80;Estudante+de+Inform%C3%A1tica+%F0%9F%92%BB;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=oii+eu+sou+o+Everton!+%F0%9F%9A%80;Estudante+de+Inform%C3%A1tica+%F0%9F%92%BB;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
